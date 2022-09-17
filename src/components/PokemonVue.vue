@@ -45,7 +45,6 @@ export default {
     }
   },
   props: {
-    num: Number,
     name: String,
     url: String,
   },
